@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently learning
+- I’m currently focusing on
 
-  - deep learning accelerator & compiler
+  - chip design
+  - ML compilers
   - LLM serving
-  - agent systems
+
+  ...and then an **agent system** that can be used to automate the above tasks!
 
 - Welcome to QQ group 1078186766. Feel free to chat.
