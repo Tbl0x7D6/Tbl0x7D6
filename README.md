@@ -23,6 +23,4 @@ Here are some ideas to get you started:
   - ML compilers
   - LLM serving
 
-  ...and then an **agent system** that can be used to automate the above tasks!
-
 - Welcome to QQ group 1078186766. Feel free to chat.
